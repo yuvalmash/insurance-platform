@@ -1,0 +1,20 @@
+.wrapper {
+  box-sizing: border-box;
+  background-color: #87aaaa;
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn {
+  background-color: #c8e3d4;
+  border: none;
+  color: #090910;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 40px;
+}

@@ -1,0 +1,38 @@
+input {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  border-radius: 4px;
+  border: 1px solid black;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.formFields {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+}
+
+.submitBtn {
+  margin-top: 5%;
+}
+
+.title {
+  padding-bottom: 30px;
+}
+
+.clrBtn {
+  width: 40%;
+  margin: auto;
+}
